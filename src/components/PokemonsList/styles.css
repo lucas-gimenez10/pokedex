@@ -1,0 +1,21 @@
+.pokemonItem {
+    list-style: none;
+    padding-bottom: 5px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+
+.pokemonItem:hover {
+    font-weight: bold;
+    color: red;
+}
+
+.pokeBall {
+    margin-right: 15px;
+}
+
+/* font-family: 'Press Start 2P', cursive; */
